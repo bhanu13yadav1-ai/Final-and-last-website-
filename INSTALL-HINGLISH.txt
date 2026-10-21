@@ -1,0 +1,22 @@
+FINAL FUSION INTEGRATION KIT — HINGLISH INSTALL
+
+IMPORTANT: Yeh kit website ke extracted folder par apply karne ke liye hai. Abhi yeh changes GitHub ke main branch par push nahi kiye gaye hain.
+
+1. Final-and-last-website- repo ka backup/ZIP lo.
+2. ZIP extract karke us folder ko computer par rakho jisme index.html, app.js aur styles.css hain.
+3. Is kit ko us folder ke andar extract karo (ya apply_integration.py ko website folder path do).
+4. Python 3 aur internet connection ke saath run karo:
+   python Final-Fusion-Integration-Kit/apply_integration.py .
+   Agar kit khud website root mein extract ki hai to:
+   python apply_integration.py .
+5. Script pehle backup ZIP banati hai. Uske baad Innerwear 360 viewer, local favourites integration, 151 source-image metadata gallery, local comfort notes aur Fit Studio cutout picker add karti hai.
+6. Script successful bole tab yeh checks chalao:
+   node --check app.js
+   python static_check.py
+7. Image binaries local bundle karne ke liye (internet zaroori):
+   python tools-download-assets.py
+   Agar ek bhi image fail ho to offline ZIP ko complete mat mano. ASSET-DOWNLOAD-FAILURES.json/report check karo.
+8. Browser mein HTTP/HTTPS par site kholo; `file://` ke bajaye local server/GitHub Pages better hai. All new buttons, 8 frames, Saved drawer, search/category filters, notes, cutout export, service worker aur 320/360/390/430px layouts manually test karo.
+9. Tests pass hone ke baad hi changes ko feature branch par commit karke review karo. Live `main` ko parallel chats ke kaam se pehle replace mat karo.
+
+New gallery mein original source-category names rakhe jaate hain. Har image BLACKED product ya confirmed inventory nahi hai; rights aur visual matching separately verify karni hai.

@@ -1,0 +1,9 @@
+Patch contents:
+- apply_integration.py: backup-first installer, adds the integration to current app.js and styles.css, merges and deduplicates source-image records, adds the separate Noor Edit source artwork metadata, copies the SVG app icon into assets/ when the current shell path requires it, fixes manifest path consumers and service-worker shell metadata.
+- addons/app-addon.js: eight-frame Innerwear concept viewer + existing Saved drawer integration, all-image source archive, separate After Dark angle/product concept archive, local-only Comfort & Fit Notes, optional cutout picker.
+- addons/app-addon.css: mobile-first styles for the add-on sections.
+- qa/test_integration_kit.py: seven offline syntax/consistency/fixture tests; run them to verify the kit itself.
+- qa/MANUAL-BROWSER-QA-CHECKLIST.md: checks still requiring actual website browser/device testing.
+- FEATURE-GAP-REGISTER.csv, PARALLEL-CHAT-MERGE-GUIDE-HINGLISH.md and COPY-PASTE-PROMPT-FOR-OTHER-CHATS.txt: scope and safe integration method.
+
+No image binaries are included in this kit. The installer downloads source metadata. To bundle image binaries, run the corrected tools-download-assets.py on a machine with internet access after applying it to a local/extracted project copy.

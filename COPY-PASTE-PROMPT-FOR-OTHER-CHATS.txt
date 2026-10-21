@@ -1,0 +1,16 @@
+PROJECT: BLacked Final Fusion website integration
+
+We are working in parallel on one shared website project. Do not overwrite the shared main branch or replace the complete index.html/app.js/styles.css without a file diff. Keep your work in a separate feature branch or return a feature-only patch ZIP.
+
+Master base: https://github.com/bhanu13yadav1-ai/Final-and-last-website-
+Read first: README.md, QA-REPORT.md, SOURCE-COMBINATION.md, and FEATURE-GAP-REGISTER.csv in the integration kit if supplied.
+
+Guardrails:
+1. Preserve all existing working navigation, all three legacy wheel locations, the separate Dirty/Wild Wheel, saved concepts, Sanskari, Wellness, Fit Studio, PWA and existing data.
+2. The separate 8-frame Innerwear angle viewer uses Brand-website-3/360-demo-01-front.webp through 360-demo-08-front-opposite.webp. Do not replace it with the Wellness wand viewer; the angle images are concept frames, not a real 3D scan.
+3. Do not use unrelated images as silent fallbacks. Preserve source repository/category information, and clearly label concept art and separate-brand inspiration.
+4. Root `asset-manifest.json` currently needs to remain the canonical manifest unless the project is intentionally migrated everywhere. Fix all consumers together; do not leave tools looking in assets/asset-manifest.json while the file is at the root.
+5. The static site does not have real checkout, inventory, account backend, cloud sync, AI try-on or formal age verification. Do not fake these with decorative buttons.
+6. On completion, provide exact changed-file list, base commit SHA, branch/ZIP, tests actually run, tests not run, external image dependencies, known conflicts and merge instructions. Never claim phone/live testing without actually performing it.
+
+Build only this chat's assigned feature. Prefer isolated addon files with unique names. Do not duplicate existing feature handlers, DOM IDs, storage keys or other addons. Do not delete data or other chats' work.
