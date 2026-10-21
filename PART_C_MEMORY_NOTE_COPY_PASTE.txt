@@ -1,0 +1,14 @@
+V1 PART C HANDOFF NOTE — COPY/PASTE
+
+Project: BLACKED website / Brand-website-v2
+Master source of truth: user's 14-rule MASTER PROMPT. Preserve existing features/data, inspect actual code, fix root causes, test honestly, and never declare untested production status PASS.
+
+Part C package is additive: part-c-enhancements.js, part-c-enhancements.css, part-c-diagnostics.html, and assets/fantasy-gallery/*.webp. Do not replace original root app.js/styles.css/sw.js/manifest/catalog/story files. Add the CSS tag after ./styles.css and JS tag after ./app.js defer per PATCH_INDEX_INSERT.txt.
+
+Wheel fix: all four wheels (boyfriend/land, dildo, butt plug, Dirty/Wild) have 8 labelled sectors. Selected sector determines result and final rotation. Reset cancels active timer. “Spin again” uses the patched spin handler. Category changes refresh labels. Existing bag hook is retained for appropriate demo picks.
+
+Images: 4 cards titled Reference 01–04; do not guess identities/celebrity names/penis sizes. 5th user-supplied image is in a separate Threesome Fantasy 18+ view. This uses a self-attestation age gate, not formal age verification. Check rights/permission before public use.
+
+QA: local Chromium tests are listed in PART_C_LOCAL_BROWSER_TESTS.json. External image archive and physical Android remain NOT TESTED until user uploads and opens part-c-diagnostics.html. Do not claim the live repo changed; it has not been written by this package creation step.
+
+Next step: user uploads Part C add-on, adds two tags to root index.html, then runs /part-c-diagnostics.html; fix any real FAILs before marking live release complete.

@@ -1,0 +1,30 @@
+ADD these files to the Brand-website-v2 repository root:
+- part-c-enhancements.js
+- part-c-enhancements.css
+- part-c-diagnostics.html
+- PART_C_WHEEL_RESEARCH.md
+- IMAGE_IDENTITY_AND_RIGHTS_NOTE.md
+- PART_C_IMPLEMENTATION_REPORT.md
+- PART_C_MEMORY_NOTE_COPY_PASTE.txt
+- PART_C_IMAGE_MANIFEST.csv
+- PART_C_QA_RESULTS.json
+- PART_C_LOCAL_BROWSER_TESTS.json
+- PATCH_INDEX_INSERT.txt
+- README_PART_C_UPLOAD_HINGLISH.md
+- README_START_HERE.md
+- PART_C_FILE_MANIFEST.csv
+- NEXT_PARTS_ROADMAP.md
+- 00_MASTER_RULES_PHASE_MAP.md
+
+ADD this new folder and its five WebP images:
+- assets/fantasy-gallery/male-reference-01.webp
+- assets/fantasy-gallery/male-reference-02.webp
+- assets/fantasy-gallery/male-reference-03.webp
+- assets/fantasy-gallery/male-reference-04.webp
+- assets/fantasy-gallery/threesome-fantasy-cover.webp
+
+Make only these two small index.html edits, as explained in PATCH_INDEX_INSERT.txt:
+- Add the new CSS link after the current ./styles.css link.
+- Add the new JS script after the current ./app.js deferred script.
+
+DO NOT replace or delete the existing root index.html, app.js, styles.css, sw.js, manifest.webmanifest, innerwear-image-library.json, the catalog data, existing story series or existing diagnostics. This is an additive patch.

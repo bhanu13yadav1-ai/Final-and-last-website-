@@ -1,0 +1,25 @@
+BLACKED V1 PART C — SAFE ADDITIVE PATCH (DO NOT REPLACE CORE SOURCE)
+
+Target repository: bhanu13yadav1-ai/Brand-website-v2
+
+Before editing, create a backup or GitHub branch.
+
+1) In the root index.html, find this exact line:
+<link rel="stylesheet" href="./styles.css">
+Immediately AFTER it add:
+<link rel="stylesheet" href="./part-c-enhancements.css">
+
+2) Find this exact line:
+<script src="./app.js" defer></script>
+Immediately AFTER it add:
+<script src="./part-c-enhancements.js" defer></script>
+
+Do not remove or reorder the existing fallback.js or app.js scripts. The new enhancer must load AFTER app.js.
+
+3) Upload the other new files from the ZIP to the repository root. Keep the assets/fantasy-gallery/ subfolder intact.
+
+4) Do NOT replace root app.js, styles.css, sw.js, manifest.webmanifest, innerwear-image-library.json, or the existing diagnostics files. This patch is designed to be additive to the current Part B tree to reduce regression risk.
+
+5) Commit all new files and the two index.html tag insertions together. Do not upload the ZIP file itself into the live root.
+
+6) Open /part-c-diagnostics.html after GitHub Pages deploys. If it reports ADD-ON NOT LOADED, recheck that the two index.html tags were inserted and the new files are at the root.

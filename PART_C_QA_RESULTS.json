@@ -1,0 +1,122 @@
+{
+  "phase": "V1 Part C additive patch",
+  "static_total": 21,
+  "static_passed": 21,
+  "static_failed": 0,
+  "static_checks": [
+    {
+      "name": "Node syntax: part-c-enhancements.js",
+      "status": "PASS",
+      "detail": "No syntax error"
+    },
+    {
+      "name": "HTML has one doctype/body: part-c-diagnostics.html",
+      "status": "PASS",
+      "detail": "DOCTYPE and body present"
+    },
+    {
+      "name": "No duplicate ids: part-c-diagnostics.html",
+      "status": "PASS",
+      "detail": "[]"
+    },
+    {
+      "name": "Inline JavaScript syntax: part-c-diagnostics.html",
+      "status": "PASS",
+      "detail": "1 inline script checked"
+    },
+    {
+      "name": "CSS braces are balanced",
+      "status": "PASS",
+      "detail": "{'open': 70, 'close': 70}"
+    },
+    {
+      "name": "Wheel outcome and angle use same selected index",
+      "status": "PASS",
+      "detail": "const sectorCentre=index\\*45\\+22\\.5"
+    },
+    {
+      "name": "Wheel reset cancels timer",
+      "status": "PASS",
+      "detail": "if\\(w\\.timer\\) clearTimeout\\(w\\.timer\\)"
+    },
+    {
+      "name": "All four wheels are initialized",
+      "status": "PASS",
+      "detail": "\\[\\x27boy\\x27,\\x27dildo\\x27,\\x27plug\\x27,\\x27wild\\x27\\]\\.forEach\\(buildWheel\\)"
+    },
+    {
+      "name": "Age self-attestation warning is explicit",
+      "status": "PASS",
+      "detail": "not formal age verification"
+    },
+    {
+      "name": "Photo measurement not inferred",
+      "status": "PASS",
+      "detail": "Penis size: not inferred from photo"
+    },
+    {
+      "name": "Three separate Threesome prompt cards",
+      "status": "PASS",
+      "detail": "data-pc-prompt=\"2\""
+    },
+    {
+      "name": "Existing demo bag delegated action retained",
+      "status": "PASS",
+      "detail": "data-wheel-add"
+    },
+    {
+      "name": "Wild category labels refresh on change",
+      "status": "PASS",
+      "detail": "if\\(target\\.matches\\(\\x27#wildCategory\\x27\\)\\)refreshWheel\\(\\x27wild\\x27\\)"
+    },
+    {
+      "name": "Local WebP asset decodes: male-reference-01.webp",
+      "status": "PASS",
+      "detail": "{'source_upload': '1000201636.jpg', 'size': [370, 490]}"
+    },
+    {
+      "name": "Local WebP asset decodes: male-reference-02.webp",
+      "status": "PASS",
+      "detail": "{'source_upload': '1000201637.jpg', 'size': [494, 620]}"
+    },
+    {
+      "name": "Local WebP asset decodes: male-reference-03.webp",
+      "status": "PASS",
+      "detail": "{'source_upload': '1000201638.jpg', 'size': [1024, 1024]}"
+    },
+    {
+      "name": "Local WebP asset decodes: male-reference-04.webp",
+      "status": "PASS",
+      "detail": "{'source_upload': '1000201639.jpg', 'size': [310, 530]}"
+    },
+    {
+      "name": "Local WebP asset decodes: threesome-fantasy-cover.webp",
+      "status": "PASS",
+      "detail": "{'source_upload': '1000201640.jpg', 'size': [220, 312]}"
+    },
+    {
+      "name": "Local Chromium tests all pass",
+      "status": "PASS",
+      "detail": "{'total': 46, 'passed': 46, 'failed': 0}"
+    },
+    {
+      "name": "Patch instructions identify both exact insertion anchors",
+      "status": "PASS",
+      "detail": "Two exact anchors present"
+    },
+    {
+      "name": "Add-on package does not contain core overwrites",
+      "status": "PASS",
+      "detail": "Core files are not included in package root"
+    }
+  ],
+  "local_browser_tests": {
+    "total": 46,
+    "passed": 46,
+    "failed": 0
+  },
+  "live_github_pages": "NOT TESTED",
+  "physical_android": "NOT TESTED",
+  "external_archive_image_urls": "NOT TESTED",
+  "image_asset_count": 5
+}
