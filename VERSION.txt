@@ -1,0 +1,4 @@
+BLacked Final Fusion — Release Candidate
+Version: 4.0.0-rc1
+Assembled: 2026-10-21
+Static front-end. See README.md and QA-REPORT.md for known limitations.

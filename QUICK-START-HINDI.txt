@@ -1,0 +1,19 @@
+BLACKED FINAL FUSION — QUICK START (HINDI)
+
+1. ZIP ko extract karein.
+2. index.html, styles.css, app.js, sw.js, manifest.webmanifest aur assets/ ko ek hi root folder mein saath rakhein.
+3. Phone par dekhne ke liye index.html khol sakte hain, lekin best testing Chrome/HTTPS par hogi.
+4. GitHub Pages par publish karna ho to kisi NEW test repo/branch ke root mein ZIP ke andar ki files/folders upload karein. Sirf ZIP file upload na karein.
+5. Is ZIP mein selected P2 repository images ke public URLs hain; images load hone ke liye internet chahiye.
+6. Offline image wali ZIP banane ke liye Python 3 aur internet wale computer par project folder se chalayein:
+   python tools-download-assets.py
+   Ye 60 referenced images download karke BLacked-Final-Fusion-Offline.zip banane ki koshish karega.
+7. Static checks dobara chalane ke liye:
+   python qa/static_check.py
+
+IMPORTANT:
+- Original repositories ko delete ya replace na karein. Pehle new test repo/branch par try karein.
+- Cart/demo bag real order ya payment nahi karta.
+- 18+ screen self-confirmation hai, formal age verification nahi.
+- Fit Studio manual image overlay hai, AI try-on nahi.
+- Final public/commercial use se pehle image permissions, product details, applicable laws aur mobile browser par actual tests verify karein.

@@ -1,0 +1,549 @@
+{
+  "manifestVersion": 1,
+  "generatedFor": "BLacked Final Fusion",
+  "createdDate": "2026-10-21",
+  "assetPolicy": "Remote source files are from the supplied P2 GitHub repositories. The initial ZIP does not contain these image binaries; use the included bundler utility to download and rewrite them for a self-contained build.",
+  "uniqueReferencedAssets": 60,
+  "assets": [
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-1",
+      "branch": "main",
+      "path": "editorial-confidence-inside.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-1/main/editorial-confidence-inside.webp",
+      "localPath": "assets/images/Brand-website-1/editorial-confidence-inside.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-1",
+      "branch": "main",
+      "path": "hero-model-crop.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-1/main/hero-model-crop.webp",
+      "localPath": "assets/images/Brand-website-1/hero-model-crop.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-1",
+      "branch": "main",
+      "path": "home-after-dark-hero.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-1/main/home-after-dark-hero.webp",
+      "localPath": "assets/images/Brand-website-1/home-after-dark-hero.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-1",
+      "branch": "main",
+      "path": "intimates-black-bra.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-1/main/intimates-black-bra.webp",
+      "localPath": "assets/images/Brand-website-1/intimates-black-bra.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-1",
+      "branch": "main",
+      "path": "intimates-red-set.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-1/main/intimates-red-set.webp",
+      "localPath": "assets/images/Brand-website-1/intimates-red-set.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-2",
+      "branch": "main",
+      "path": "design-11-midnight-sculpt-product.jpg",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-2/main/design-11-midnight-sculpt-product.jpg",
+      "localPath": "assets/images/Brand-website-2/design-11-midnight-sculpt-product.jpg",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-2",
+      "branch": "main",
+      "path": "fit-set-black.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-2/main/fit-set-black.webp",
+      "localPath": "assets/images/Brand-website-2/fit-set-black.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-2",
+      "branch": "main",
+      "path": "product-black-lace.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-2/main/product-black-lace.webp",
+      "localPath": "assets/images/Brand-website-2/product-black-lace.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-2",
+      "branch": "main",
+      "path": "product-ivory-bloom.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-2/main/product-ivory-bloom.webp",
+      "localPath": "assets/images/Brand-website-2/product-ivory-bloom.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-2",
+      "branch": "main",
+      "path": "sanskari-card-softwear.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-2/main/sanskari-card-softwear.webp",
+      "localPath": "assets/images/Brand-website-2/sanskari-card-softwear.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-2",
+      "branch": "main",
+      "path": "wand-360-frame-01.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-2/main/wand-360-frame-01.webp",
+      "localPath": "assets/images/Brand-website-2/wand-360-frame-01.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-2",
+      "branch": "main",
+      "path": "wand-360-frame-02.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-2/main/wand-360-frame-02.webp",
+      "localPath": "assets/images/Brand-website-2/wand-360-frame-02.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-2",
+      "branch": "main",
+      "path": "wand-360-frame-03.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-2/main/wand-360-frame-03.webp",
+      "localPath": "assets/images/Brand-website-2/wand-360-frame-03.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-2",
+      "branch": "main",
+      "path": "wand-360-frame-04.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-2/main/wand-360-frame-04.webp",
+      "localPath": "assets/images/Brand-website-2/wand-360-frame-04.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-2",
+      "branch": "main",
+      "path": "wand-360-frame-05.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-2/main/wand-360-frame-05.webp",
+      "localPath": "assets/images/Brand-website-2/wand-360-frame-05.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-2",
+      "branch": "main",
+      "path": "wand-360-frame-06.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-2/main/wand-360-frame-06.webp",
+      "localPath": "assets/images/Brand-website-2/wand-360-frame-06.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-2",
+      "branch": "main",
+      "path": "wand-360-frame-07.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-2/main/wand-360-frame-07.webp",
+      "localPath": "assets/images/Brand-website-2/wand-360-frame-07.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-2",
+      "branch": "main",
+      "path": "wand-360-frame-08.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-2/main/wand-360-frame-08.webp",
+      "localPath": "assets/images/Brand-website-2/wand-360-frame-08.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-2",
+      "branch": "main",
+      "path": "wand-360-frame-09.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-2/main/wand-360-frame-09.webp",
+      "localPath": "assets/images/Brand-website-2/wand-360-frame-09.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-2",
+      "branch": "main",
+      "path": "wellness-hero.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-2/main/wellness-hero.webp",
+      "localPath": "assets/images/Brand-website-2/wellness-hero.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-2",
+      "branch": "main",
+      "path": "wellness-lavender-dual-massager.jpg",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-2/main/wellness-lavender-dual-massager.jpg",
+      "localPath": "assets/images/Brand-website-2/wellness-lavender-dual-massager.jpg",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-3",
+      "branch": "main",
+      "path": "01-pallu-shareef.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-3/main/01-pallu-shareef.webp",
+      "localPath": "assets/images/Brand-website-3/01-pallu-shareef.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-3",
+      "branch": "main",
+      "path": "02-sanskari-raat.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-3/main/02-sanskari-raat.webp",
+      "localPath": "assets/images/Brand-website-3/02-sanskari-raat.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-3",
+      "branch": "main",
+      "path": "03-mirror-knows.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-3/main/03-mirror-knows.webp",
+      "localPath": "assets/images/Brand-website-3/03-mirror-knows.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-3",
+      "branch": "main",
+      "path": "05-entry-shareef.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-3/main/05-entry-shareef.webp",
+      "localPath": "assets/images/Brand-website-3/05-entry-shareef.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-3",
+      "branch": "main",
+      "path": "06-sweet-face-dark-mood.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-3/main/06-sweet-face-dark-mood.webp",
+      "localPath": "assets/images/Brand-website-3/06-sweet-face-dark-mood.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-3",
+      "branch": "main",
+      "path": "10-sanskari-outside-dangerous.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-3/main/10-sanskari-outside-dangerous.webp",
+      "localPath": "assets/images/Brand-website-3/10-sanskari-outside-dangerous.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-3",
+      "branch": "main",
+      "path": "companion-cafe.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-3/main/companion-cafe.webp",
+      "localPath": "assets/images/Brand-website-3/companion-cafe.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-3",
+      "branch": "main",
+      "path": "companion-event.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-3/main/companion-event.webp",
+      "localPath": "assets/images/Brand-website-3/companion-event.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-3",
+      "branch": "main",
+      "path": "companion-gallery.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-3/main/companion-gallery.webp",
+      "localPath": "assets/images/Brand-website-3/companion-gallery.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-3",
+      "branch": "main",
+      "path": "sanskari-nazuk-lamhe.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-3/main/sanskari-nazuk-lamhe.webp",
+      "localPath": "assets/images/Brand-website-3/sanskari-nazuk-lamhe.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-3",
+      "branch": "main",
+      "path": "sanskari-raat-shareef.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-3/main/sanskari-raat-shareef.webp",
+      "localPath": "assets/images/Brand-website-3/sanskari-raat-shareef.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-4f",
+      "branch": "main",
+      "path": "aankhein-neeche.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-4f/main/aankhein-neeche.webp",
+      "localPath": "assets/images/Brand-website-4f/aankhein-neeche.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-4f",
+      "branch": "main",
+      "path": "campaign-innerwear.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-4f/main/campaign-innerwear.webp",
+      "localPath": "assets/images/Brand-website-4f/campaign-innerwear.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-4f",
+      "branch": "main",
+      "path": "campaign-mirror.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-4f/main/campaign-mirror.webp",
+      "localPath": "assets/images/Brand-website-4f/campaign-mirror.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-4f",
+      "branch": "main",
+      "path": "campaign-pallu-shareef.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-4f/main/campaign-pallu-shareef.webp",
+      "localPath": "assets/images/Brand-website-4f/campaign-pallu-shareef.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-4f",
+      "branch": "main",
+      "path": "campaign-sanskari-raat.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-4f/main/campaign-sanskari-raat.webp",
+      "localPath": "assets/images/Brand-website-4f/campaign-sanskari-raat.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-4f",
+      "branch": "main",
+      "path": "campaign-sanskari.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-4f/main/campaign-sanskari.webp",
+      "localPath": "assets/images/Brand-website-4f/campaign-sanskari.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-4f",
+      "branch": "main",
+      "path": "campaign-wellness.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-4f/main/campaign-wellness.webp",
+      "localPath": "assets/images/Brand-website-4f/campaign-wellness.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-4f",
+      "branch": "main",
+      "path": "entry-shareef.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-4f/main/entry-shareef.webp",
+      "localPath": "assets/images/Brand-website-4f/entry-shareef.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-4f",
+      "branch": "main",
+      "path": "hero-model-crop.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-4f/main/hero-model-crop.webp",
+      "localPath": "assets/images/Brand-website-4f/hero-model-crop.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-4f",
+      "branch": "main",
+      "path": "home-after-dark-hero.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-4f/main/home-after-dark-hero.webp",
+      "localPath": "assets/images/Brand-website-4f/home-after-dark-hero.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-4f",
+      "branch": "main",
+      "path": "intimates-editorial-01.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-4f/main/intimates-editorial-01.webp",
+      "localPath": "assets/images/Brand-website-4f/intimates-editorial-01.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-4f",
+      "branch": "main",
+      "path": "intimates-editorial-03.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-4f/main/intimates-editorial-03.webp",
+      "localPath": "assets/images/Brand-website-4f/intimates-editorial-03.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-4f",
+      "branch": "main",
+      "path": "look-black-lace.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-4f/main/look-black-lace.webp",
+      "localPath": "assets/images/Brand-website-4f/look-black-lace.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-4f",
+      "branch": "main",
+      "path": "look-sanskari-blue.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-4f/main/look-sanskari-blue.webp",
+      "localPath": "assets/images/Brand-website-4f/look-sanskari-blue.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-4f",
+      "branch": "main",
+      "path": "mirror-knows-everything.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-4f/main/mirror-knows-everything.webp",
+      "localPath": "assets/images/Brand-website-4f/mirror-knows-everything.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-4f",
+      "branch": "main",
+      "path": "pallu-shareef.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-4f/main/pallu-shareef.webp",
+      "localPath": "assets/images/Brand-website-4f/pallu-shareef.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-4f",
+      "branch": "main",
+      "path": "product-curved.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-4f/main/product-curved.webp",
+      "localPath": "assets/images/Brand-website-4f/product-curved.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-4f",
+      "branch": "main",
+      "path": "product-everyday-bra.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-4f/main/product-everyday-bra.webp",
+      "localPath": "assets/images/Brand-website-4f/product-everyday-bra.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-4f",
+      "branch": "main",
+      "path": "product-lace-bra.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-4f/main/product-lace-bra.webp",
+      "localPath": "assets/images/Brand-website-4f/product-lace-bra.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-4f",
+      "branch": "main",
+      "path": "wand-massager-studio.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-4f/main/wand-massager-studio.webp",
+      "localPath": "assets/images/Brand-website-4f/wand-massager-studio.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-full-finally-",
+      "branch": "main",
+      "path": "black-gold-tease-wide.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-full-finally-/main/black-gold-tease-wide.webp",
+      "localPath": "assets/images/Brand-website-full-finally-/black-gold-tease-wide.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-full-finally-",
+      "branch": "main",
+      "path": "boyfriend-cafe-01.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-full-finally-/main/boyfriend-cafe-01.webp",
+      "localPath": "assets/images/Brand-website-full-finally-/boyfriend-cafe-01.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-full-finally-",
+      "branch": "main",
+      "path": "boyfriend-cafe-02.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-full-finally-/main/boyfriend-cafe-02.webp",
+      "localPath": "assets/images/Brand-website-full-finally-/boyfriend-cafe-02.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-full-finally-",
+      "branch": "main",
+      "path": "boyfriend-cafe-03.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-full-finally-/main/boyfriend-cafe-03.webp",
+      "localPath": "assets/images/Brand-website-full-finally-/boyfriend-cafe-03.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-full-finally-",
+      "branch": "main",
+      "path": "boyfriend-cafe-04.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-full-finally-/main/boyfriend-cafe-04.webp",
+      "localPath": "assets/images/Brand-website-full-finally-/boyfriend-cafe-04.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-full-finally-",
+      "branch": "main",
+      "path": "boyfriend-cafe-05.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-full-finally-/main/boyfriend-cafe-05.webp",
+      "localPath": "assets/images/Brand-website-full-finally-/boyfriend-cafe-05.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-full-finally-",
+      "branch": "main",
+      "path": "hero-sanskari.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-full-finally-/main/hero-sanskari.webp",
+      "localPath": "assets/images/Brand-website-full-finally-/hero-sanskari.webp",
+      "bundledLocally": false
+    },
+    {
+      "owner": "bhanu13yadav1-ai",
+      "repository": "Brand-website-full-finally-",
+      "branch": "main",
+      "path": "library-romantic-blush.webp",
+      "url": "https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-full-finally-/main/library-romantic-blush.webp",
+      "localPath": "assets/images/Brand-website-full-finally-/library-romantic-blush.webp",
+      "bundledLocally": false
+    }
+  ]
+}
