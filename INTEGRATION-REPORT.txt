@@ -1,0 +1,28 @@
+HER STORIES — INTEGRATION REPORT
+Date: 21 October 2026
+
+Completed in this package:
+- Mobile-first Her Stories screen and responsive CSS.
+- 4 original Hinglish stories / 8 complete chapters.
+- Mood filters, search, sorting, local bookmarks, reading-progress indicator, continue-reading and choose-your-ending branch.
+- Reuses existing site's 18+ self-attestation gate for the new section.
+- Updates service-worker cache and optional image downloader during integration.
+- Fallback image handling covers already-failed dynamic images.
+
+Local checks completed:
+- 10/10 no-network package checks passed.
+- JavaScript syntax check passed (`node --check her-stories.js`).
+- CSS brace balance passed (179 opening / 179 closing).
+- Standalone preview IDs are unique; image alt attributes present; linked local files resolve.
+- Integration script passed against a version-shaped fixture, including offline image downloader adjustment.
+
+Not completed / not claimed:
+- The actual GitHub main branch was not edited. GitHub integration denied creating/updating a branch, and a direct main-branch overwrite was avoided to prevent conflicts with other in-progress chat work.
+- The integration script has not been run against the full live repository checkout.
+- Live GitHub Pages, real Android Chrome touch behaviour, live image downloads and visual suitability have not been browser-tested here.
+- Existing project artwork usage rights still require confirmation before commercial publishing.
+
+Safe next step:
+- After reconciling other chat's edits, put this folder inside the latest repository root and run:
+  python Her-Stories-Hinglish-Integration/apply_her_stories.py
+- If the existing project version has changed, the script stops rather than overwriting mismatched anchors.

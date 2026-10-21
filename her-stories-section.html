@@ -1,0 +1,75 @@
+<!-- HER STORIES: naya Hinglish, adults-only fiction section -->
+<section class="page-view her-stories-view" id="view-herstories" data-page="herstories" aria-labelledby="her-stories-title">
+  <div class="her-stories-hero section-shell">
+    <div class="her-stories-hero-copy">
+      <span class="eyebrow"><span class="her-eyebrow-dot"></span> SIRF 18+ · ORIGINAL HINGLISH FICTION</span>
+      <h1 id="her-stories-title">Apni kahaani.<br><em>Apna mood.</em></h1>
+      <p>Romance, late-night confessions aur woh butterflies wali feeling — sab Hinglish mein. Fiction hai, pressure bilkul nahi.</p>
+      <div class="her-hero-actions">
+        <a class="button button-primary" href="#her-story-library" data-her-jump>Stories explore karo <span>↓</span></a>
+        <span class="her-hero-note">♡ Saare characters 18+ adults hain</span>
+      </div>
+      <div class="her-hero-points"><span>✦ Original stories</span><span>⌁ Bookmarks sirf isi device par</span><span>♡ Consent-first themes</span></div>
+    </div>
+    <div class="her-stories-hero-art" aria-label="Romantic story artwork">
+      <img src="https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-full-finally-/main/boyfriend-cafe-03.webp" alt="Warm cafe mein romantic date ka editorial scene" loading="lazy" data-fallback="https://raw.githubusercontent.com/bhanu13yadav1-ai/Brand-website-full-finally-/main/boyfriend-cafe-02.webp">
+      <div class="her-art-stamp"><span>HER</span><strong>STORIES</strong><small>APNE ANDAAZ MEIN PADHO</small></div>
+      <span class="her-art-caption">Kuch kahaaniyan dil mein reh jaati hain.</span>
+    </div>
+  </div>
+
+  <section class="section-shell section-block her-story-library" id="her-story-library" aria-labelledby="her-library-title">
+    <div class="section-heading her-library-heading">
+      <div><span class="eyebrow">KIS MOOD KI STORY CHAHIYE?</span><h2 id="her-library-title">Aaj kya <em>padhein?</em></h2></div>
+      <p>Apna mood choose karo, story padho aur jahan ruk jao, wahin se baad mein continue karo.</p>
+    </div>
+
+    <div class="her-story-tools">
+      <label class="her-story-search" for="her-story-search"><span aria-hidden="true">⌕</span><input id="her-story-search" type="search" placeholder="Story ya mood search karo…" autocomplete="off"></label>
+      <label class="her-story-sort-label" for="her-story-sort">Stories ka order
+        <select id="her-story-sort"><option value="featured">Hamari picks</option><option value="short">Sabse short pehle</option><option value="title">Title A–Z</option></select>
+      </label>
+    </div>
+    <div class="her-story-filter-row" role="group" aria-label="Story mood filters">
+      <button type="button" class="her-filter-chip selected" data-her-filter="all" aria-pressed="true">Sab stories</button>
+      <button type="button" class="her-filter-chip" data-her-filter="slow" aria-pressed="false">Slow-burn romance</button>
+      <button type="button" class="her-filter-chip" data-her-filter="sensual" aria-pressed="false">Sensual fiction</button>
+      <button type="button" class="her-filter-chip" data-her-filter="modern" aria-pressed="false">Modern love</button>
+      <button type="button" class="her-filter-chip" data-her-filter="interactive" aria-pressed="false">Choose-your-ending</button>
+      <button type="button" class="her-filter-chip her-bookmarks-filter" id="her-bookmarks-only" aria-pressed="false">♡ Meri saved stories</button>
+    </div>
+
+    <div class="her-continue-card" id="her-continue-card" hidden>
+      <div class="her-continue-icon" aria-hidden="true">↗</div>
+      <div class="her-continue-copy"><span class="eyebrow">JAHAN CHHODA THA</span><strong id="her-continue-title">Tumhari story yahin hai</strong><p id="her-continue-subtitle">Reading progress isi device par save hoti hai.</p></div>
+      <button type="button" class="button button-primary" id="her-continue-button">Wahin se padho</button>
+    </div>
+
+    <div class="her-stories-grid" id="her-stories-grid" aria-live="polite" aria-busy="true"></div>
+    <div class="her-stories-empty" id="her-stories-empty" hidden><span>⌕</span><h3>Koi story match nahi hui</h3><p>Dusra word try karo ya filters reset kar do.</p><button type="button" class="button button-outline" id="her-clear-filters">Filters hatao</button></div>
+    <p class="her-local-note"><span aria-hidden="true">⌁</span> Bookmarks aur reading progress isi browser mein rehte hain. Koi account ya cloud sync connected nahi hai.</p>
+  </section>
+
+  <section class="her-story-wellness section-shell" aria-labelledby="her-wellness-title">
+    <div class="her-wellness-mark" aria-hidden="true">♡</div>
+    <div><span class="eyebrow">STORY KE BAAD, APNE LIYE BHI</span><h2 id="her-wellness-title">Comfort bhi zaroori hai.</h2><p>Body confidence, personal boundaries, intimate hygiene aur product safety par clear, evidence-led guides dekho. Stories fiction hain — wellness advice alag aur facts ke saath hogi.</p></div>
+    <button type="button" class="button button-outline" data-view="wellness">Women's Wellness kholo <span>↗</span></button>
+  </section>
+
+  <dialog class="her-story-reader" id="her-story-reader" aria-labelledby="her-reader-title">
+    <div class="her-reader-topbar"><span class="her-reader-brand"><span>BLacked</span> <i>· HER STORIES</i></span><button type="button" class="her-reader-close" data-her-close aria-label="Reader band karo">×</button></div>
+    <div class="her-reader-body">
+      <div class="her-reader-meta"><span id="her-reader-category">SLOW-BURN ROMANCE</span><span id="her-reader-duration">7 min read</span></div>
+      <h2 id="her-reader-title">Story ka title</h2>
+      <p class="her-reader-deck" id="her-reader-deck"></p>
+      <div class="her-reader-progress" aria-label="Story progress"><span id="her-reader-progress-bar"></span></div>
+      <div class="her-reader-progress-label"><span id="her-reader-progress-text">Chapter 1 of 2</span><span>Progress device par save hoti hai</span></div>
+      <h3 id="her-reader-chapter-title">Chapter 1</h3>
+      <div class="her-reader-content" id="her-reader-content"></div>
+      <div class="her-ending-choices" id="her-ending-choices" hidden></div>
+      <div class="her-reader-footer"><button type="button" class="button button-outline" id="her-reader-prev">← Pichhla chapter</button><button type="button" class="button button-primary" id="her-reader-next">Agla chapter →</button></div>
+      <div class="her-reader-bottom-actions"><button type="button" class="text-link" id="her-reader-bookmark">♡ Story save karo</button><button type="button" class="text-link" data-her-close>Reader band karo</button></div>
+      <p class="her-fiction-note">Yeh original fictional kahaani hai. Characters adult hain; romantic moments mutual consent ke saath hain. Fiction ko medical ya relationship advice na samjhein.</p>
+    </div>
+  </dialog>
+</section>
